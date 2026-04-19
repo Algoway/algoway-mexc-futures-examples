@@ -1,0 +1,11 @@
+{
+  "symbol": "BTCUSDT",
+  "side": "buy",
+  "quantity": 0.01,
+  "trade_type": "hedge",
+  "margin_mode": "isolated",
+  "leverage": 10,
+  "stop_loss": 300,
+  "take_profit": 600,
+  "trigger": "last"
+}
