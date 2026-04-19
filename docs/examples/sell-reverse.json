@@ -1,0 +1,8 @@
+{
+  "symbol": "BTCUSDT",
+  "side": "sell",
+  "quantity": 0.01,
+  "trade_type": "reverse",
+  "margin_mode": "isolated",
+  "leverage": 10
+}
