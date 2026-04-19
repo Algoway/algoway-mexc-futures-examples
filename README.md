@@ -39,7 +39,8 @@ TradingView alert or strategy signal
   "margin_mode": "isolated",
   "leverage": 10
 }
-Available risk parameters
+
+## Available risk parameters
 stop_loss
 take_profit
 sl_price
