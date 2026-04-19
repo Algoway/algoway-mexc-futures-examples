@@ -39,20 +39,3 @@ TradingView alert or strategy signal
   "margin_mode": "isolated",
   "leverage": 10
 }
-
-## Available risk parameters
-stop_loss
-take_profit
-sl_price
-tp_price
-trailing_pips
-trigger
-close_side
-Repository structure
-examples/ — ready-to-use JSON payload examples
-docs/ — field descriptions and MEXC notes
-postman/ — API request collection
-Notes
-Quantity is provided as base asset size.
-AlgoWay converts the requested quantity internally for MEXC Futures execution.
-Symbol handling and exchange-side normalization are managed by the private AlgoWay connector.
